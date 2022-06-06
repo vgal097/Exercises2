@@ -1,0 +1,15 @@
+D:\Project\bib\AulaJ\AulaJ\bin\Debug\net6.0\AulaJ.exe
+D:\Project\bib\AulaJ\AulaJ\bin\Debug\net6.0\AulaJ.deps.json
+D:\Project\bib\AulaJ\AulaJ\bin\Debug\net6.0\AulaJ.runtimeconfig.json
+D:\Project\bib\AulaJ\AulaJ\bin\Debug\net6.0\AulaJ.dll
+D:\Project\bib\AulaJ\AulaJ\bin\Debug\net6.0\AulaJ.pdb
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.csproj.AssemblyReference.cache
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.AssemblyInfoInputs.cache
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.AssemblyInfo.cs
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.csproj.CoreCompileInputs.cache
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.dll
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\refint\AulaJ.dll
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.pdb
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\AulaJ.genruntimeconfig.cache
+D:\Project\bib\AulaJ\AulaJ\obj\Debug\net6.0\ref\AulaJ.dll
